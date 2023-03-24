@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"artifact-registry","Source":"./modules/artifact-registry","Dir":"modules/artifact-registry"},{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"cloud-sql","Source":"./modules/cloud-sql","Dir":"modules/cloud-sql"},{"Key":"artifact-registry","Source":"./modules/artifact-registry","Dir":"modules/artifact-registry"},{"Key":"","Source":"","Dir":"."},{"Key":"cloud-build","Source":"./modules/cloud-build","Dir":"modules/cloud-build"}]}
